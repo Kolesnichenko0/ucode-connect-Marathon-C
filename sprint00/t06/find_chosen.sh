@@ -1,0 +1,2 @@
+grep -w -i "redpill" "$@"
+
